@@ -1,0 +1,15 @@
+Setup Table Users
+
+npx sequelize model:generate --name User --attributes FullName:string,Address:string,PhoneNumber:string,Role:string,Password:string
+
+npx sequelize model:generate --name Category --attributes CategoryName:string,Description:string
+
+npx sequelize model:generate --name Product --attributes ProductName:string,Description:string,CategoryID:integer,Price:integer,StockQuantity:integer,ImageURL:string
+
+npx sequelize model:generate --name Order --attributes UserID:integer,OrderDate:date,TotalAmount:integer,OrderStatus:string,PaymentToken:integer
+
+npx sequelize model:generate --name OrderDetail --attributes OrderID:integer,ProductID:integer,Quantity:integer,Price:integer
+
+
+
+

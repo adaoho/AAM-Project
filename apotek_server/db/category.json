@@ -1,0 +1,58 @@
+[
+  {
+    "CategoryName": "Lambung/ Kembung/ Maag",
+    "Description": "Obat untuk Lambung Kembung dan Maag"
+  },
+  {
+    "CategoryName": "Demam/ Nyeri/ Sakit Kepala",
+    "Description": "Obat untuk Demam, Nyeri, dan Sakit Kepala"
+  },
+  {
+    "CategoryName": "Flu/ Batuk/ Alergi",
+    "Description": "Obat untuk Flu, Batuk, dan Alergi"
+  },
+  {
+    "CategoryName": "Vitamin & Suplemen",
+    "Description": "Obat untuk Vitamin dan Suplemen"
+  },
+  {
+    "CategoryName": "Diare",
+    "Description": "Obat untuk Diare"
+  },
+  {
+    "CategoryName": "Salep & Krim",
+    "Description": "Obat Salep dan Krim"
+  },
+  {
+    "CategoryName": "Ibu & Anak",
+    "Description": "Obat untuk keperluan Ibu dan Anak"
+  },
+  {
+    "CategoryName": "Herbal",
+    "Description": "Obat berjenis Herbal"
+  },
+  {
+    "CategoryName": "Kesehatan Kulit",
+    "Description": "Obat untuk Kesehatan Kulit"
+  },
+  {
+    "CategoryName": "Kesehatan Mata",
+    "Description": "Obat untuk Kesehatan Mata"
+  },
+  {
+    "CategoryName": "THT",
+    "Description": "Obat untuk kesehatan Telinga"
+  },
+  {
+    "CategoryName": "P3K",
+    "Description": "Obat untuk kebutuhan P3K"
+  },
+  {
+    "CategoryName": "Alat Kesehatan",
+    "Description": "Berbagai Alat Bantu Kesehatan"
+  },
+  {
+    "CategoryName": "Lain-Lain",
+    "Description": "Berbagai Obat yang tidak termasuk kategori Lainnya"
+  }
+]
