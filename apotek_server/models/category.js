@@ -3,12 +3,23 @@ const { Model } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
   class Category extends Model {
     static associate(models) {
-      Category.belongsTo(models.Product, { foreignKey: "CategoryID" });
+      Category.hasMany(models.Product, { foreignKey: "CategoryID" });
     }
   }
   Category.init(
     {
-      CategoryName: DataTypes.STRING,
+      CategoryName: {
+        type: DataTypes.STRING,
+        allowNull: false,
+        validate: {
+          notNull: {
+            msg: "Category Name is Required",
+          },
+          notEmpty: {
+            msg: "Category Name is Required",
+          },
+        },
+      },
       Description: DataTypes.STRING,
     },
     {

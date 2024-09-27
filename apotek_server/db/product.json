@@ -2,10 +2,10 @@
   {
     "ProductName": "Polysilane Suspensi 100 ml",
     "Slug": "sanmol-500-mg-4-tablet",
-    "CategoryID": 1,
     "Unit": "strip",
     "Description": "SANMOL merupakan obat dengan kandungan Paracetamol 500 mg. Obat ini digunakan untuk meringankan rasa sakit pada keadaan sakit kepala, sakit gigi dan menurunkan demam. Sanmol bekerja pada pusat pengatur suhu di hipotalamus untuk menurunkan suhu tubuh (antipiretik) serta menghambat sintesis prostaglandin sehingga dapat mengurangi nyeri ringan sampai sedang (analgesik)",
     "Price": 2400,
+    "CategoryID": 1,
     "StockQuantity": 20,
     "Sales": 10,
     "ImageURL": ["/produk/sanmol.jpg", "/produk/samol_2.jpg"]
@@ -13,10 +13,10 @@
   {
     "ProductName": "Panadol 500 mg 10 Kaplet",
     "Slug": "panadol-500-mg-10-kaplet",
-    "CategoryID": 1,
     "Unit": "strip",
     "Description": "PANADOL merupakan obat dengan kandungan Paracetamol yang dapat digunakan untuk meringankan rasa sakit pada sakit kepala, sakit gigi, sakit pada otot dan menurunkan demam. Paracetamol bekerja pada pusat pengatur suhu di hipotalamus untuk menurunkan suhu tubuh (antipiretik) serta menghambat sintesis prostaglandin sehingga dapat mengurangi nyeri ringan sampai sedang(analgesik). PANADOL merupakan obat dengan kandungan Paracetamol yang dapat digunakan untuk meringankan rasa sakit pada sakit kepala, sakit gigi, sakit pada otot dan menurunkan demam. Paracetamol bekerja pada pusat pengatur suhu di hipotalamus untuk menurunkan suhu tubuh (antipiretik) serta menghambat sintesis prostaglandin sehingga dapat mengurangi nyeri ringan sampai sedang(analgesik). PANADOL merupakan obat dengan kandungan Paracetamol yang dapat digunakan untuk meringankan rasa sakit pada sakit kepala, sakit gigi, sakit pada otot dan menurunkan demam. Paracetamol bekerja pada pusat pengatur suhu di hipotalamus untuk menurunkan suhu tubuh (antipiretik) serta menghambat sintesis prostaglandin sehingga dapat mengurangi nyeri ringan sampai sedang(analgesik).",
     "Price": 12000,
+    "CategoryID": 1,
     "StockQuantity": 20,
     "Sales": 4,
     "ImageURL": [
@@ -28,10 +28,10 @@
   {
     "ProductName": "Amoxicillin 500 mg 10 Tablet",
     "Slug": "amoxicillin-500-mg-10-tablet",
-    "CategoryID": 1,
     "Unit": "strip",
     "Description": "AMOXICILLIN adalah antibiotik golongan aminopenisilin semisintetik yang menghambat langkah transpeptidasi akhir sintesis peptidoglikan di dinding sel bakteri dengan mengikat 1 atau lebih protein pengikat penisilin (PBP), sehingga menghambat biosintesis dinding sel dan akhirnya menyebabkan lisis bakteri. Obat ini digunakan untuk infeksi yang disebabkan oleh strain-strain bakteri yang peka spt Staphylococcus bukan penghasil penisilinase, Streptococcus, E.Coli, H.Influenzae, Streptococcus Pneumoniae, Streptococcus Faecalis, P.mirabilia dan N.Gonorrheae (bukan penghasil penisilinase) pada penyakit infeksi kulit dan jaringan lunak, infeksi saluran pernafasan, infeksi saluran genitourinari, dan gonore. Dalam penggunaan obat ini harus SESUAI DENGAN PETUNJUK DOKTER. Pembelian obat ini memerlukan edukasi terkait penggunaan atau pengonsumsian obat yang tepat dan aman yang akan dikenakan biaya.",
     "Price": 7500,
+    "CategoryID": 1,
     "StockQuantity": 10,
     "Sales": 3,
     "ImageURL": ["/produk/amoxicilin_1.jpg", "/produk/amoxicilin_2.jpg"]
@@ -39,10 +39,10 @@
   {
     "ProductName": "Baby Safe Underpad 10 Pieces",
     "Slug": "baby-safe-underpad-10-pieces",
-    "CategoryID": 1,
     "Unit": "pack",
     "Description": "Alas Popok Bayi Ukuran M Higienis dan Daya Serap Tinggi 60 x 60cm ",
     "Price": 42500,
+    "CategoryID": 1,
     "StockQuantity": 6,
     "Sales": 3,
     "ImageURL": [
@@ -53,10 +53,10 @@
   {
     "ProductName": "Bye Bye Fever Anak 1 Lembar",
     "Slug": "bye-bye-fever-anak-1-lembar",
-    "CategoryID": 1,
     "Unit": "sachet",
     "Description": "BYE BYE FEVER ANAK merupakan plester yang digunakan pada anak untuk meringankan efek tidak nyaman karena demam, sakit gigi, sakit kepala. Plester ini memberikan efek dingin bekerja sampai 10 jam.",
     "Price": 11300,
+    "CategoryID": 1,
     "StockQuantity": 4,
     "Sales": 10,
     "ImageURL": ["/produk/bye_bye_fever_1.jpeg", "/produk/bye_bye_fever_2.jpeg"]
@@ -64,10 +64,10 @@
   {
     "ProductName": "Tolak Angin Cair Plus Madu 15 ml 12 Sachet",
     "Slug": "tolak-angin-cair-plus-madu-15-ml-12-sachet",
-    "CategoryID": 1,
     "Unit": "box",
     "Description": "TOLAK ANGIN CAIR PLUS MADU merupakan obat herbal terstandar yang mengandung kombinasi berbagai herbal alami yang dapat digunakan untuk membantu memelihara atau menjaga daya tahan tubuh dan meringankan gejala masuk angin.",
     "Price": 44000,
+    "CategoryID": 1,
     "StockQuantity": 10,
     "Sales": 15,
     "ImageURL": ["/produk/tolak_angin_1.jpg", "/produk/tolak_angin_2.jpg"]
@@ -75,10 +75,10 @@
   {
     "ProductName": "Habbatussauda Kurma Ajwa 120 Kapsul",
     "Slug": "habbatussauda-kurma-ajwa-120-kapsul",
-    "CategoryID": 1,
     "Unit": "botol",
     "Description": "HABBATUSSAUDA KURMA AJWA mengandung Ekstrak jinten hitam (Nigela Sativa Semen Extract) yang dapat membantu memelihara daya tahan tubuh",
     "Price": 52500,
+    "CategoryID": 1,
     "StockQuantity": 10,
     "Sales": 15,
     "ImageURL": ["/produk/habbat_1.jpeg", "/produk/habbat_2.jpeg"]
@@ -86,10 +86,10 @@
   {
     "ProductName": "Nebulizer Mask Adult",
     "Slug": "nebulizer-mask-adult",
-    "CategoryID": 1,
     "Unit": "piece",
     "Description": "Nebulizer Mask Adult Nebulizer mask adalah masker yang digunakan pada alat nebulizer untuk mengubah cairan obat menjadi uap atau aerosol dengan partikel yang sangat kecil dan halus sehingga dapat dengan mudah dihirup oleh pasien atau pengguna melalui pernafasan menuju paru-paru.",
     "Price": 43500,
+    "CategoryID": 1,
     "StockQuantity": 3,
     "Sales": 2,
     "ImageURL": ["/produk/nebulizer_1.jpeg", "/produk/nebulizer_2.jpeg"]
@@ -97,10 +97,10 @@
   {
     "ProductName": "Finger Pulse Oximeter",
     "Slug": "finger-pulse-oximeter",
-    "CategoryID": 1,
     "Unit": "box",
     "Description": "FINGER PULSE OXIMETER adalah alat pengukur kadar oksigen dalam darah. Alat ini umumnya berbentuk klip yang digunakan dengan cara dijepitkan di jari tangan. Setelah terpasang, sensor pada alat oximeter akan mengevaluasi jumlah hemoglobin atau zat di dalam sel darah merah yang bertugas untuk mengangkut oksigen ke seluruh tubuh. Alat oximeter dilengkapi dengan layar monitor kecil. Pada layar monitor tersebut, akan ditampilkan hasil pengukuran kadar oksigen dalam darah.",
     "Price": 43500,
+    "CategoryID": 1,
     "StockQuantity": 3,
     "Sales": 2,
     "ImageURL": ["/produk/oximeter_1.jpeg", "/produk/oximeter_2.jpeg"]

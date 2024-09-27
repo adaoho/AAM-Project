@@ -1,6 +1,6 @@
+require("dotenv").config();
 const { sign, verify } = require("jsonwebtoken");
-// const SECRET = process.env.SECRET;
-const SECRET = "SECRET";
+const SECRET = process.env.SECRET;
 
 const createToken = (payload) => {
   return sign(payload, SECRET);
