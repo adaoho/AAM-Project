@@ -35,6 +35,7 @@ module.exports = {
       },
       StockQuantity: {
         type: Sequelize.INTEGER,
+        allowNull: false,
       },
       Sales: {
         type: Sequelize.INTEGER,

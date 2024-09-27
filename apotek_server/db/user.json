@@ -2,14 +2,14 @@
   {
     "FullName": "Adnan Nugroho",
     "Address": "Pamulang, Tangerang Selatan",
-    "PhoneNumber": "+6281230969797",
+    "PhoneNumber": "6281230969797",
     "Role": "customer",
     "Password": "password"
   },
   {
     "FullName": "Jakarta Bambang",
     "Address": "Kuningan, Jakarta Selatan",
-    "PhoneNumber": "+6281230969797",
+    "PhoneNumber": "6281230969798",
     "Role": "admin",
     "Password": "password"
   }
